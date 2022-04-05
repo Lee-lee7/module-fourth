@@ -1,0 +1,7 @@
+li.content:
+  path: '/li'
+  defaults:
+    _title: 'LiForm (Module 4)'
+    _form: 'Drupal\li\Form\LiForm'
+  requirements:
+    _permission: 'access content'

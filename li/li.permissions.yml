@@ -1,0 +1,4 @@
+administer li configuration:
+  title: 'Administer li configuration'
+  description: 'Optional description.'
+  restrict access: true

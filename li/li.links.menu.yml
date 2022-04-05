@@ -1,0 +1,6 @@
+li.admin:
+  title: 'My 4th module page'
+  description: 'This module creates a page with forms'
+  parent: system.admin_structure
+  route_name: li.content
+  weight: 10
